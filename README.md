@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Nodejs,Express js,GSAP**
 
-- 📫 How to reach me **athrudev@gmail.com**
+- 📫 How to reach me **atharva.kamble110586@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
